@@ -4,7 +4,9 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-image: url("https://media4.giphy.com/media/798oH0WDEQnicM4857/giphy.gif?cid=6c09b9520tdkg823fq6ir7izo48l9hm1qc89o15qab7mh2g0&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+   background-size: cover;
+  background-repeat: no-repeat;
   text-align: center;
   color: navy;
   margin: auto;
@@ -12,15 +14,15 @@ body {
 }
 
 h1{
-  font-size: 30px;
+  font-size: 70px;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://images.stockcake.com/public/d/1/1/d11b8d0d-8d76-4b06-bb87-89f49c5b7542_large/underwater-serene-beauty-stockcake.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 5px solid tan
 }
-
+ 
 
 
